@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hostel Recommendation System</title>
+    <!-- Link your CSS file -->
+    <link rel="stylesheet" type="text/css" href="C:\Users\Vyshnavi G\Desktop\MINI PROJECT\Style.css">
+</head>
+<body>
+    <h1>Hostel Recommendation System</h1>
+    <form action="/recommend" method="post">
+        <label for="fee">Maximum Fee:</label>
+        <input type="number" name="fee" id="fee" required>
+        <br>
+        <label for="sharing">Sharing Preference:</label>
+        <select name="sharing" id="sharing" required>
+            <option value="1">Single</option>
+            <option value="2">Double</option>
+            <option value="3">Triple</option>
+            <option value="4">Four</option>
+        </select>
+        <br>
+        <label for="location">Location:</label>
+        <select name="location" id="location" required>
+            <option value="gandipet">Gandipet</option>
+            <option value="kokapet">Kokapet</option>
+            <option value="narsingi">Narsingi</option>
+            <option value="gachibowli">Gachibowli</option>
+        </select>
+        <br>
+        <label for="food_preference">Food Preference:</label>
+        <select name="food_preference" id="food_preference" required>
+            <option value="Vegetarian">Vegetarian</option>
+            <option value="Non-Vegetarian">Non-Vegetarian</option>
+        </select>
+        <br>
+        <button type="submit">Get Recommendations</button>
+    </form>
+</body>
+</html>

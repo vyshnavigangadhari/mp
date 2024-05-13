@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #b74f9d38;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 450px;
+            margin: 100px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .input-group {
+            margin-bottom: 30px;
+        }
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .input-group input {
+            width: 95%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #aea4a4;
+        }
+        .input-group input[type="submit"] {
+            background-color: #4CAF50;
+            color: #fff;
+            cursor: pointer;
+        }
+        .input-group input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .signup-message {
+            text-align: center;
+        }
+        .signup-message a {
+            color: #333;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        <form action="#" method="post">
+
+            <div class="input-group">
+                <label for="username">Username </label>
+                <input type="username" id="username" name="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="text" id="password" name="password" required>
+            </div>
+            <div class="input-group">
+                <input type="submit" value="Sign in">
+                
+            </div>
+        </form>
+        <p class="signup-message">Don't have an account? <a href="signup.html">Sign up here</a>.</p>
+    </div>
+</body>
+</html>

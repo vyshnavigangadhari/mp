@@ -1,0 +1,65 @@
+Hostel Name,Location,Food,Year of Study,Sharing,Fee,Branch,Rating,Wifi,Washing Machine,Gate opening ,Gate closing
+Jaya Residencyy,Gandipet,Veg,1,1,5000,Aiml,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Veg,1,2,4500,Aiml,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Veg,1,3,4000,Aiml,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,1,4,4000,Aiml,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,2,1,5500,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,2,2,5000,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,2,3,5400,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,2,4,3000,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,3,1,3300,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Jaya Residencyy,Gandipet,Non-veg,3,2,5000,IT,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Villa Gooncha,Gandipet,Veg,1,1,5000,CSE,4.5,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Delight,Kokapet,Non-veg,2,2,6000,IT,4.2,4G,No,6.30AM,11.00PM
+Nexin,Narsingi,Veg,3,3,7000,Mech,4.8,5G,Yes(8am-6pm),6.00AM,10.30PM
+Elite,Gachibowli,Non-veg,4,4,8000,AI&DS,4.1,4G,No,7.30AM,10.30PM
+Siri Residency,Gandipet,Veg,1,1,5000,EEE,4.5,5G,Yes(7am-7pm),7.00AM,11.00PM
+Star Residency,Kokapet,Non-veg,2,2,6000,ECE,4.3,4G,No,6.30AM,10.00PM
+Nexin,Narsingi,Veg,3,3,7000,AIML,4.7,5G,Yes(6am-8pm),6.00AM,11.30PM
+S Delight,Gachibowli,Non-veg,4,4,8000,Biotech,4,4G,Yes(9am - 5pm),7.30AM,10.00PM
+Elight,Gandipet,Veg,1,1,5000,IT,4.4,5G,No,7.00AM,11.30PM
+Jaya Residencyy,Kokapet,Non-veg,2,2,6000,Mech,4.9,4G,Yes(8am-7pm),6.30AM,10.30PM
+Vijaya Residency,Narsingi,Veg,3,3,7000,CSE,4.2,5G,No,6.00AM,10.00PM
+Elite,Gachibowli,Non-veg,4,4,8000,ECE,4.5,4G,Yes(7am-6pm),7.30AM,11.00PM
+S Delight,Gandipet,Veg,1,1,5000,AIML,4.8,5G,Yes(6am-8pm),7.00AM,10.30PM
+SVM Residency,Kokapet,Non-veg,2,2,6000,Biotech,4.1,4G,No,6.30AM,11.30PM
+S Elite,Narsingi,Veg,3,3,7000,AI&DS,4.5,5G,Yes(9am - 5pm),6.00AM,10.00PM
+Grand Residency,Gachibowli,Non-veg,4,4,8000,EEE,4.3,4G,No,7.30AM,"11,30PM"
+Elite,Gandipet,Veg,1,1,5000,AIML,4.7,5G,Yes(9am - 5pm),7.00AM,10.00PM
+Nextin,Kokapet,Non-veg,2,2,6000,Biotech,4.2,4G,No,6.30AM,11.00PM
+Siri Residency,Narsingi,Veg,3,3,7000,AI&DS,4.9,5G,Yes(8am-6pm),6.00AM,10.30pm
+Keerthi Residency,Gachibowli,Non-veg,4,4,8000,EEE,4.4,4G,No,7.30AM,10.30pm
+Swetha Towers,Gandipet,Veg,1,1,5000,CSE,4.8,5G,Yes(7am-7pm),7.00AM,11.00PM
+SVM Residency,Kokapet,Non-veg,2,2,6000,IT,4.3,4G,No,6.30AM,10.00PM
+Nextin,Narsingi,Veg,3,3,7000,Mech,4.6,5G,Yes(6am-8pm),6.00AM,11.30PM
+Siri Residency,Gachibowli,Non-veg,4,4,8000,AIML,4.1,4G,No,7.30AM,10.30AM
+Keerthi Towers,Gandipet,Veg,1,1,5000,EEE,4.5,5G,Yes(7am-7pm),7.00AM,11.00PM
+Siri Residency,Kokapet,Non-veg,2,2,6000,ECE,4.7,4G,No,6.30AM,10.00PM
+Delight,Narsingi,Veg,3,3,7000,AI&DS,4.2,5G,Yes(8am-6pm),6.00AM,10.30PM
+Elight,Gachibowli,Non-veg,4,4,8000,Biotech,4.8,4G,Yes(9am-6pm),7.30AM,10.00PM
+S Elite,Gandipet,Veg,1,1,5000,IT,4.3,5G,No,7.00AM,11.30PM
+SVM Residency,Kokapet,Non-veg,2,2,6000,Mech,4.6,4G,Yes(8am-7pm),6.30AM,10.30PM
+Avante Hills,Narsingi,Veg,3,3,7000,CSE,4.1,5G,No,6.00AM,10.00PM
+Swetha Towers,Gachibowli,Non-veg,4,4,8000,ECE,4.9,4G,Yes(7am-6pm),7.30AM,11.00PM
+Delight,Gandipet,Veg,1,1,5000,AIML,4.4,5G,Yes(6am-8pm),7.00AM,10.30PM
+Nexin,Kokapet,Non-veg,2,2,6000,Biotech,4.7,4G,No,6.30AM,11.00PM
+S Elite,Narsingi,Veg,3,3,7000,AI&DS,4.2,5G,Yes(9am-5pm),6.00AM,10.30PM
+SVM Residency,Gachibowli,Non-veg,4,4,8000,EEE,4.5,5G,Yes(7am-7pm),7.00AM,11.00PM
+S Delight,Gandipet,Veg,1,1,5000,CSE,4.6,5G,Yes(9am-5pm),6.30AM,10.30PM
+Jaya Residencyy,Kokapet,Non-veg,2,2,6000,IT,4.3,4G,No,7.00AM,10.00PM
+Vijaya Residency,Narsingi,Veg,3,3,7000,Mech,4.8,5G,(8am-6pm),6.30AM,11.30PM
+SVM Residency,Gachibowli,Non-veg,4,4,8000,AI&DS,4.1,4G,No,7.00AM,10.30PM
+S Delight,Gandipet,Veg,1,1,5000,EEE,4.6,5G,Yes(7am-7pm),6.30AM,11.00PM
+Nexin,Kokapet,Non-veg,2,2,6000,ECE,4.3,4G,No,7.00AM,10.00PM
+Siri Residency,Narsingi,Veg,3,3,7000,AIML,4.7,5G,Yes(6am-8pm),6.30AM,11.30PM
+Swetha Towers,Gachibowli,Non-veg,4,4,8000,Biotech,4,4G,Yes(9am-6pm),7.00AM,10.00PM
+Delight,Gandipet,Veg,1,1,5000,IT,4.5,5G,No,6.30AM,10.30PM
+Siri Residency,Kokapet,Non-veg,2,2,6000,Mech,4.9,4G,Yes(8am-7pm),7.00AM,11.00PM
+Avante Hills,Narsingi,Veg,3,3,7000,CSE,4.2,5G,No,6.30AM,10.00PM
+Elight,Gachibowli,Non-veg,4,4,8000,ECE,4.5,4G,Yes(7am-6pm),7.00AM,10.30PM
+Jaya Residencyy,Gandipet,Veg,1,1,5000,AIML,4.8,5G,Yes(6am-8pm),6.30AM,11.00PM
+SVM Residency,Kokapet,Non-veg,2,2,6000,Biotech,4.7,4G,No,7.00AM,10.00PM
+Delight,Narsingi,Veg,3,3,7000,AI&DS,4.2,5G,Yes(9am-5pm),6.30AM,10.30PM
+Swetha Towers,Gachibowli,Non-veg,4,4,8000,EEE,4.9,4G,No,7.00AM,11.00PM
+S Elite,Gandipet,Veg,1,1,5000,CSE,4.4,5G,Yes(7am-7pm),6.30AM,10.30PM
+Siri Residency,Kokapet,Non-veg,2,2,6000,IT,4.1,4G,No,7.00AM,11.00PM
